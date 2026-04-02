@@ -1,0 +1,42 @@
+{
+  "originHash" : "ad7acdea505c0d8a2b84f4cdee1ce5ed1bb00a2e20a9c9635c8e1c086767d0dd",
+  "pins" : [
+    {
+      "identity" : "csqlite",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/CSQLite",
+      "state" : {
+        "revision" : "bdb5580e54cdf49251b365ea34e2651199473240",
+        "version" : "3.50.4"
+      }
+    },
+    {
+      "identity" : "hotkey",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/soffes/HotKey.git",
+      "state" : {
+        "revision" : "a3cf605d7a96f6ff50e04fcb6dea6e2613cfcbe4",
+        "version" : "0.2.1"
+      }
+    },
+    {
+      "identity" : "sqlcipher.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sqlcipher/SQLCipher.swift",
+      "state" : {
+        "revision" : "180be9a4dd130d838765a156b709e02f3bc3e7cd",
+        "version" : "4.14.0"
+      }
+    },
+    {
+      "identity" : "sqlite.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
+      "state" : {
+        "revision" : "964c300fb0736699ce945c9edb56ecd62eba27a3",
+        "version" : "0.16.0"
+      }
+    }
+  ],
+  "version" : 3
+}
